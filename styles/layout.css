@@ -1,0 +1,17 @@
+header {
+   background-color: var(--green);
+}
+button {
+   background-color: var(--orange);
+}
+#second-section {
+   background-color: var(--orange);
+   color:white;
+}
+footer {
+   background-color: var(--footer);
+   color:white;
+}
+footer a {
+   color:white;
+}

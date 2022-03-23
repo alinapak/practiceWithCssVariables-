@@ -1,0 +1,13 @@
+:root {
+--green:#19b39b;
+--orange:#e6673c;
+--orange-hover:#da5f35;
+--footer:#414244;
+}
+* {
+text-decoration:none;
+list-style: none;
+padding:0;
+margin:0;
+box-sizing:border-box;
+}
