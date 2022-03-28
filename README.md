@@ -1,5 +1,3 @@
 # practiceWithCssVariables-
 
-connecting local and remote repositories
-
-conecting
+Creating branch 2 which name is "feature2"
